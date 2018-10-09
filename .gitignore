@@ -1,4 +1,7 @@
-.bundle
-vendor
-_site
+.bundle/
+vendor/
+_site/
 .DS_Store
+.sass-cache/
+.tweet-cache/
+
