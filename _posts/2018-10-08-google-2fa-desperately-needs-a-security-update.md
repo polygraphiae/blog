@@ -1,7 +1,8 @@
 ---
 layout: post
 featured_image: pawel-czerwinski-710838-unsplash.jpg
-tags: [2fa, google]
+title: Google 2FA Desperately Needs A Security Update
+tags: [2fa, google, broken]
 ---
 
 Yesterday, my friend [@zooko](https://twitter.com/zooko) reminded me of a

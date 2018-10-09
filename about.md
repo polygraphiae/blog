@@ -1,6 +1,6 @@
 ---
 layout: page
-title: About this blog
+title: About The Polygraphiae
 featured_image: authorimage.jpg
 ---
 
@@ -11,3 +11,5 @@ Some things need to be said.  Occasionally, they aren't, so I will.
 Thank you for your time.
 
 *Johannes*
+
+c.f. [Polygraphia](https://en.wikipedia.org/wiki/Polygraphia_(book))
